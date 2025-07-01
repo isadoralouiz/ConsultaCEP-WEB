@@ -56,4 +56,41 @@ body {
   form input#cep {
     max-width: 140px;
   }
+
+  .botao {
+  background-color: #145214;
+  color: #ffffff;
+  border: none;
+  border-radius: 5px;
+  width: 50%;
+  padding: 10px 0;
+  font-size: 1rem;
+  font-weight: 600;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+
+}
+
+.botao:hover {
+  background-color: #206b20;
+}
+
+.botaoLista {
+  background-color: #145214;
+  color: #ffffff;
+  border: none;
+  border-radius: 5px;
+  width: 50%;
+  padding: 10px 0;
+  font-size: 1rem;
+  font-weight: 600;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+
+}
+
+.botaoLista:hover {
+  background-color: #206b20;
+}
+
   
